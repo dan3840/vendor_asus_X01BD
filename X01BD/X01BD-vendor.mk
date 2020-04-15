@@ -39,6 +39,5 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/vendor_overlay/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_SYSTEM)/vendor_overlay/lib64/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
-    libqcomfm_jni \
     libsdm-disp-apis \
     vendor.qti.hardware.fm@1.0
